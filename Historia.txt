@@ -1,5 +1,7 @@
-Este es mi primera experiencia con Git
+Este es mi segunda experiencia con Git
 
 Seguimos aprendiendo
 
 Para volvernos Crack en DevOps
+
+Domingo de Git
