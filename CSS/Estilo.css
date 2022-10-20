@@ -2,7 +2,7 @@ body
 {
     color: blue;
     text-align: center;
-    font-family: "Curier";
+    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -36,4 +36,4 @@ body
 #container h1 
 {
     font-size: 20px;
-}
+}:
